@@ -15,6 +15,13 @@ propinsi = "bali"
 print("Nama Lengkap:",nama)
 
 print("Alamat",alamat, "\n           Kota ", propinsi)
+=======
+propinsi = "bali"
+
+print("Nama Lengkap:",nama)
+
+print("Alamat",alamat, "\n           Kota ", propinsi)
+
 
 print("Hobi:",hobi)
 
